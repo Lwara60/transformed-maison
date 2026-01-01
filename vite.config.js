@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/' // Serve assets from root (Vercel host root)
 })
+base: '/'
